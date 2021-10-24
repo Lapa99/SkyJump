@@ -1,0 +1,103 @@
+
+mainmenu.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+53_MainMenu_page2Image
+  rotate: false
+  xy: 1, 36
+  size: 308, 217
+  orig: 308, 217
+  offset: 0, 0
+  index: -1
+63_MainMenu_page1Image
+  rotate: false
+  xy: 311, 36
+  size: 308, 217
+  orig: 308, 217
+  offset: 0, 0
+  index: -1
+73_MainMenu_page3Image
+  rotate: false
+  xy: 621, 36
+  size: 308, 217
+  orig: 308, 217
+  offset: 0, 0
+  index: -1
+39_MainMenu_survivalImage
+  rotate: false
+  xy: 931, 235
+  size: 92, 18
+  orig: 92, 18
+  offset: 0, 0
+  index: -1
+40_MainMenu_howToPlayImage_RollOver
+  rotate: false
+  xy: 1, 21
+  size: 87, 13
+  orig: 87, 13
+  offset: 0, 0
+  index: -1
+45_MainMenu_howToPlayImage
+  rotate: false
+  xy: 931, 220
+  size: 87, 13
+  orig: 87, 13
+  offset: 0, 0
+  index: -1
+51_MainMenu_battleImage
+  rotate: false
+  xy: 1, 1
+  size: 76, 18
+  orig: 76, 18
+  offset: 0, 0
+  index: -1
+46_MainMenu_iletterM
+  rotate: false
+  xy: 931, 182
+  size: 40, 36
+  orig: 40, 36
+  offset: 0, 0
+  index: -1
+49_MainMenu_iletterP
+  rotate: false
+  xy: 931, 144
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+32_MainMenu_iletterY
+  rotate: false
+  xy: 973, 182
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+41_MainMenu_iletterK
+  rotate: false
+  xy: 931, 106
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+48_MainMenu_iletterS
+  rotate: false
+  xy: 965, 144
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+50_MainMenu_iletterU
+  rotate: false
+  xy: 995, 144
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+38_MainMenu_iletterJ
+  rotate: false
+  xy: 931, 68
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
